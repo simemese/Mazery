@@ -1,4 +1,4 @@
 # Mazery
 
 A project for learning purposes.
-[Demo](https://drive.google.com/open?id=1W9AtM8MPoBDmckU7l4sR_qIazk7P2Yht)
+[Demo](https://drive.google.com/file/d/1OJUxtz-b7oDwr-B5yAhGQA1-z3qLK7ZG/view?usp=sharing)
