@@ -50,7 +50,7 @@ public class Wizard : MonoBehaviour
 
     private void LootObject()
     {
-        if(Input.GetAxis("Jump")>0)
+        if(Input.GetButtonDown("Jump"))
         {
             LootSpawner[] lootSpawners = FindObjectsOfType<LootSpawner>();
 
